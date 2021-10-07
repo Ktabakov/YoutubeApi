@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRLsuYh2DKTE01hsvKN+vGcBhlO4RCIznAYBA8UcJmR+ntvqLZX2hjDjr2/4NTLjdFyqJAKyzxhT9JJWy3pjYw==",
+  "success": true,
+  "projectFilePath": "D:\\From Old Laptop - Work, Uni, Code\\SoftUni\\AppsForTuneSat\\RealYoutubeApiApp\\RealYoutubeApiApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
