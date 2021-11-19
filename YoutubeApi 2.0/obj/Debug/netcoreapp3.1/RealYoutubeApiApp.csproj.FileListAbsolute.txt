@@ -1,0 +1,54 @@
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.exe
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csprojAssemblyReference.cache
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.AssemblyInfoInputs.cache
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.AssemblyInfo.cs
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.deps.json
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.runtimeconfig.json
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.runtimeconfig.dev.json
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.dll
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.pdb
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csproj.CoreCompileInputs.cache
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csproj.CopyComplete
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.dll
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.pdb
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.genruntimeconfig.cache
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Dalla\source\repos\YoutubeApi\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csproj.ResolveComReference.cache
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.exe
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.deps.json
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.runtimeconfig.json
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.runtimeconfig.dev.json
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.dll
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.pdb
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csprojAssemblyReference.cache
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csproj.ResolveComReference.cache
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.AssemblyInfoInputs.cache
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.AssemblyInfo.cs
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csproj.CoreCompileInputs.cache
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csproj.CopyComplete
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.dll
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.pdb
+D:\From Old Laptop - Work, Uni, Code\SoftUni\AppsForTuneSat\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.genruntimeconfig.cache
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.exe
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.deps.json
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.runtimeconfig.json
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.runtimeconfig.dev.json
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.dll
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\RealYoutubeApiApp.pdb
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csproj.AssemblyReference.cache
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csproj.ResolveComReference.cache
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.AssemblyInfoInputs.cache
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.AssemblyInfo.cs
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.csproj.CoreCompileInputs.cache
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.dll
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.pdb
+D:\Konstantin2021\BOTS\AppsForTuneSatC#\RealYoutubeApiApp\obj\Debug\netcoreapp3.1\RealYoutubeApiApp.genruntimeconfig.cache
